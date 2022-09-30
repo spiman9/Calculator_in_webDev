@@ -1,0 +1,51 @@
+.text-center{
+    text-align: center;
+    font-weight: 100;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto
+{
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col
+{
+    flex-direction: column;
+}
+
+.item-center{
+    justify-content: center;
+    align-items: center;
+}
+
+.clr-button
+{
+    padding: 20px 119px;
+}
+
+.bg-blue{
+    background-color: rgb(49, 218, 74);
+    color: black;
+    font-weight: bold;
+}
+
+
+.bg-white
+{
+    background-color: rgb(222, 194, 36);
+    color: rgb(16, 19, 6);
+}
+
+.center-body{
+    margin: 0px 587px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}

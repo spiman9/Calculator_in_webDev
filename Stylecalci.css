@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Koulen&display=swap');
+body{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+.button{
+    padding: 20px;
+    margin : 0px 8px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: large;
+}
+
+.button:hover{
+    background-color: rgb(38, 230, 38);
+    color: black;
+}
+
+.row{
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.row input{
+    padding: 13px 24px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 14px;
+    text-align: center;
+    font-size: large;
+}
+
+
+.container{
+    background-color: white;
+    border: 4px solid black;
+    border-radius: 20px;
+}
+
+.container:hover{
+    background-color: rgb(233, 255, 34);
+}
